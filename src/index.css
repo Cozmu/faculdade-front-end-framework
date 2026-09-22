@@ -1,7 +1,7 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 3rem 2rem;
+  padding: 1rem;
 }
 
 body {
@@ -142,10 +142,9 @@ main {
   margin-top: 1.5rem;
   padding: 0.7em 1.2em;
 
-  border: 1px solid rgba(100, 108, 255, 0.5);
+  background-color:  rgba(100, 108, 255, 0.5);
   border-radius: 8px;
 
-  background: #1a1a1a;
   color: rgba(255, 255, 255, 0.87);
 
   font-size: 1em;
