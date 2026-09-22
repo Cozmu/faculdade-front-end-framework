@@ -1,5 +1,4 @@
 import { useState, type ReactElement } from 'react';
-import './App.css';
 import dataFilmes from './store/data';
 
 function App(): ReactElement {
