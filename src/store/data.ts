@@ -1,0 +1,66 @@
+const dataFilmes = [
+  {
+    id_filme: 1,
+    titulo: 'Interestelar',
+    ano_lancamento: 2014,
+    genero: 'Ficção Científica',
+    contagem_visualizacoes: 950000,
+  },
+  {
+    id_filme: 2,
+    titulo: 'O Poderoso Chefão',
+    ano_lancamento: 1972,
+    genero: 'Drama',
+    contagem_visualizacoes: 870000,
+  },
+  {
+    id_filme: 3,
+    titulo: 'Batman: O Cavaleiro das Trevas',
+    ano_lancamento: 2008,
+    genero: 'Ação',
+    contagem_visualizacoes: 1200000,
+  },
+  {
+    id_filme: 4,
+    titulo: 'Forrest Gump',
+    ano_lancamento: 1994,
+    genero: 'Drama',
+    contagem_visualizacoes: 780000,
+  },
+  {
+    id_filme: 5,
+    titulo: 'Matrix',
+    ano_lancamento: 1999,
+    genero: 'Ficção Científica',
+    contagem_visualizacoes: 1100000,
+  },
+  {
+    id_filme: 6,
+    titulo: 'O Senhor dos Anéis',
+    ano_lancamento: 2001,
+    genero: 'Fantasia',
+    contagem_visualizacoes: 1300000,
+  },
+  {
+    id_filme: 7,
+    titulo: 'Titanic',
+    ano_lancamento: 1997,
+    genero: 'Romance',
+    contagem_visualizacoes: 1500000,
+  },
+  {
+    id_filme: 8,
+    titulo: 'Gladiador',
+    ano_lancamento: 2000,
+    genero: 'Ação',
+    contagem_visualizacoes: 650000,
+  },
+  {
+    id_filme: 9,
+    titulo: 'Vingadores: Ultimato',
+    ano_lancamento: 2019,
+    genero: 'Ação',
+    contagem_visualizacoes: 1800000,
+  },
+];
+export default dataFilmes;
